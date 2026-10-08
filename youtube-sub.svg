@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-3bff9b79-655f-4d3d-9f24-c73b9df35b45" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 696.3 209.26">
+  <defs>
+    <style>
+      .uuid-b6ab8bb2-e555-4864-bcf9-942883e7d4ac {
+        fill: #fff;
+        font-family: MonomaniacOne-Regular, 'Monomaniac One';
+        font-size: 135px;
+      }
+
+      .uuid-72d00459-8f34-48dc-bac5-6e103826f70f {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <rect class="uuid-72d00459-8f34-48dc-bac5-6e103826f70f" width="696.3" height="209.26" rx="32.9" ry="32.9"/>
+  <text class="uuid-b6ab8bb2-e555-4864-bcf9-942883e7d4ac" transform="translate(33.07 150.26)"><tspan x="0" y="0">SUBSCRIBE!</tspan></text>
+</svg>
